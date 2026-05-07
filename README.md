@@ -42,4 +42,4 @@ Dotnet-Benchmark/
 └── BenchmarkDotNet.Artifacts/
 ```
 
-![screenshot](./screenshots/screenshot.png)
+![screenshot](./screenshot/screenshot.png)
